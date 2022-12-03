@@ -1,0 +1,2 @@
+<h1>McLaren is Super Car</h1>
+<div class="cover-image"></div>
